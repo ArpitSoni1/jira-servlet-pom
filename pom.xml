@@ -143,7 +143,7 @@
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-web</artifactId>
-            <version>6.2.8</version>
+            <version>6.2.10</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
@@ -288,7 +288,7 @@
         <amps.version>9.1.1</amps.version>
         <atlassian.plugin.key>${project.groupId}.${project.artifactId}</atlassian.plugin.key>
         <osgi.javaconfig.version>0.6.0</osgi.javaconfig.version>
-        <spring.version>6.2.8</spring.version>
+        <spring.version>6.2.10</spring.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
